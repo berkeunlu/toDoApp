@@ -4,4 +4,4 @@ toDoApp'e hoşgeldiniz.
 
 sayfalar ve bağlantıları aşağıda ki diagramda gösterilmiştir.
 
-![alt text](http://url/to/img.png)
+!(https://github.com/berkeunlu/toDoApp/blob/master/drawio.png)
