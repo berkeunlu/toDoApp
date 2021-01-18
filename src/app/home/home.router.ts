@@ -22,9 +22,9 @@ const routes: Routes = [
             )
         },
         {
-            path:'messages',
-            loadChildren:() => import('../pages/messages/messages.module').then(
-                m => m.MessagesPageModule
+            path:'addtask',
+            loadChildren:() => import('../pages/addtask/addtask.module').then(
+                m => m.AddtaskPageModule
             )
         },
         {
