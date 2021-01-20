@@ -54,6 +54,7 @@ Ayarlar ekranýndan da farklý görev listeleri arasýnda geçiþ yapýlabilir.
 Dosya clonelandýktan sonra aþaðýda ki komutlarýn çalýþtýrýlmasý yeterlidir.
 
 > npm install
+
 > ionic serve
 
 ## ***Arkaplan***
