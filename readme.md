@@ -40,6 +40,7 @@ Hesaba giriþ yaptýktan sonra akýþ ekraný bizi burada karþýlar. Bu ekranda tamaml
 ***
 
 Görev ekle ekranýndan yeni görev eklenebilir.
+
 ![addtask_ekraný](https://github.com/berkeunlu/toDoApp/blob/master/screenshots/addtask.png?raw=true)
 ***
 Bildirimler ekranýndan yanlýþ þifre denemeleri vb. bildirimlerin gönderilmesi planlanmýþtýr.
